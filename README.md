@@ -10,12 +10,12 @@ In Mathematica, we solve the perturbation equations in the form presented in [ar
 We provide minimal and self-contained versions of both the Python and Mathematica codes. 
 
 In both the Python and Mathematica codes, all quantities are calculated using the number of e-folds, $N$, as a time coordinate.
-The examples provided in this repository are given for the PBH$A$ potential of [arXiv:1911.00057](https://arxiv.org/pdf/1911.00057); the model parameters are the ones used in the Companion paper (see Table I). We show the evolution of the relevant background quantities and the curvature power spectrum for both the single-field reference model (named "PBH$A$-fid" in the Letter, "SF Reference" in the Companion) and the PBHspec model (named "$\chi$-PBH$A$-var" in the Letter, "PBHspec" in the Companion).
+The examples provided in this repository are given for the PBHA potential of [arXiv:1911.00057](https://arxiv.org/pdf/1911.00057); the model parameters are the ones used in the Companion paper (see Table I). We show the evolution of the relevant background quantities and the curvature power spectrum for both the single-field reference model (named "PBHA-fid" in the Letter, "SF Reference" in the Companion) and the PBHspec model (named " $\chi$ PBHA-var" in the Letter, "PBHspec" in the Companion).
 
 
 **Python**
 
-We provide a PyTransport model setup file that defines the PBHspec model (with PBHspec-$A$ potential), as well as a Jupyter notebook where all the relevant quantities are defined, calculated, and plotted.
+We provide a PyTransport model setup file that defines the PBHspec model (with PBHspec-A potential), as well as a Jupyter notebook where all the relevant quantities are defined, calculated, and plotted.
 
 Note that a working installation of `PyTranport` is required. We defer further installation and usage information to the instructions presented in the [`PyTransport` repository](https://github.com/jronayne/PyTransport).
 
