@@ -1,7 +1,7 @@
 # PBHspec
 ## Primordial Black Holes from Inflation with a Spectator Field
 
-This repository contains minimal working code that will allow researchers to reproduce the results detailed in our papers [arXiv:2504.13251](https://arxiv.org/abs/2504.13251) ("Letter" in what follows) and [arXiv:TBD](https://arxiv.org/abs/TBD) ("Companion" in what follows).
+This repository contains minimal working code that will allow researchers to reproduce the results detailed in our papers [arXiv:2504.13251](https://arxiv.org/abs/2504.13251) ("Letter" in what follows) and [arXiv:2512.04199](https://arxiv.org/abs/2512.04199) ("Companion" in what follows).
 
 As detailed in the papers, we used two independent codes written in Python and Mathematica, respectively, to calculate the evolution of the background and of the perturbations. We found excellent agreement between the two codes. 
 In Python, we used the publicly available code `PyTransport` (see [arXiv:1609.00379](https://arxiv.org/pdf/1609.00379) and [arXiv:1609.00381](https://arxiv.org/pdf/1609.00381)), which uses the Transport Method to directly compute the time-evolution of correlation functions. The `PyTransport` code is available at [this repository](https://github.com/jronayne/PyTransport).

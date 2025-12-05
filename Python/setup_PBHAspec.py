@@ -5,7 +5,7 @@
 
 # this setup file defines the single-field PBH model of [1911.00057],
 # with the addition of a spectator fields chi, minimally-coupled to gravity
-# shorthand: PBHAspec (model PBH-A in [2504.13251])
+# shorthand: PBHAspec (model PBH-A in [2504.13251] and [2512.04199])
 
 ######################################################################################################################
 
